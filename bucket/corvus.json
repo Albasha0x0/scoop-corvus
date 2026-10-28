@@ -1,16 +1,16 @@
 {
-    "version": "2.7.1",
+    "version": "2.7.2",
     "description": "MCP server for reverse engineering .NET assemblies and native binaries.",
     "homepage": "https://github.com/Albasha0x0/Corvus",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Albasha0x0/Corvus/releases/download/v2.7.1/corvus-win-x64.zip",
-            "hash": "20cc8c205411cbe5fc2b1f0a79f37830bf04f04328d6ce10d96ddb21bfd2b35d"
+            "url": "https://github.com/Albasha0x0/Corvus/releases/download/v2.7.2/corvus-win-x64.zip",
+            "hash": "ec7c952229cd49c0c82645a32643c013e5dd52378e25215d595346eb82d8dda1"
         },
         "arm64": {
-            "url": "https://github.com/Albasha0x0/Corvus/releases/download/v2.7.1/corvus-win-arm64.zip",
-            "hash": "ca72accf670c79f100b29c659c8e7179541766914798e0551370e304f318609c"
+            "url": "https://github.com/Albasha0x0/Corvus/releases/download/v2.7.2/corvus-win-arm64.zip",
+            "hash": "3178ac664b4f54fb70b4b93450d5e2c32c9e3863c4d2c1ce10b2dae3faa9a254"
         }
     },
     "bin": "corvus.exe",
